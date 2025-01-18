@@ -1,0 +1,60 @@
+Domain Name: google.com
+Registrar: MarkMonitor Inc.
+Creation Date: 1997-09-15
+Expiry Date: 2028-09-13
+Name Server: 
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+Domain Name: facebook.com 
+Registrar: RegistrarSafe, LLC
+Creation Date: 1997-03-29
+Expiry Date: 2033-03-30
+Name Server: 
+a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+
+Domain Name: microsoft.com
+Registrar: MarkMonitor Inc.
+Creation Date: 1991-05-02
+Expiry Date: 2025-05-03
+Name Server:
+ns1-39.azure-dns.com
+ns2-39.azure-dns.net
+ns3-39.azure-dns.org
+ns4-39.azure-dns.info
+
+
+Domain Name: amazon.com
+Registrar: MarkMonitor Inc.
+Creation Date: 1994-11-01
+Expiry Date: 2025-10-31
+Name Server: 
+ns1.amzndns.co.uk
+ns1.amzndns.com
+ns1.amzndns.net
+ns1.amzndns.org
+ns2.amzndns.co.uk
+ns2.amzndns.com
+ns2.amzndns.net
+ns2.amzndns.org
+
+
+Domain Name: github.com
+Registrar: MarkMonitor Inc. 
+Creation Date: 2007-10-09
+Expiry Date: 2026-10-09
+Name Server:
+dns1.p08.nsone.net
+dns2.p08.nsone.net
+dns3.p08.nsone.net
+dns4.p08.nsone.net
+ns-1283.awsdns-32.org
+ns-1707.awsdns-21.co.uk
+ns-421.awsdns-52.com
+ns-520.awsdns-01.net
