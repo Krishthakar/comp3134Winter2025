@@ -1,0 +1,20 @@
+tcpdump: data link type LINUX_SLL2
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+04:40:05.974056 eth0  M   IP Krish.mshome.net.54118 > 239.255.255.250.1900: UDP, length 133
+04:40:05.984848 lo    In  IP 10.255.255.254.58846 > 10.255.255.254.domain: 47942+ PTR? 250.255.255.239.in-addr.arpa. (46)
+04:40:05.998985 lo    In  IP 10.255.255.254.domain > 10.255.255.254.58846: 47942 NXDomain 0/1/0 (103)
+04:40:05.999103 lo    In  IP 10.255.255.254.54298 > 10.255.255.254.domain: 29071+ PTR? 1.112.29.172.in-addr.arpa. (43)
+04:40:05.999740 lo    In  IP 10.255.255.254.domain > 10.255.255.254.54298: 29071*- 1/0/0 PTR Krish.mshome.net. (98)
+04:40:06.094707 lo    In  IP 10.255.255.254.54781 > 10.255.255.254.domain: 45496+ PTR? 254.255.255.10.in-addr.arpa. (45)
+04:40:06.107800 lo    In  IP 10.255.255.254.domain > 10.255.255.254.54781: 45496 NXDomain 0/1/0 (122)
+04:40:08.206991 eth0  B   IP Krish.mshome.net.57621 > 172.29.127.255.57621: UDP, length 44
+04:40:08.294735 lo    In  IP 10.255.255.254.55123 > 10.255.255.254.domain: 22617+ PTR? 255.127.29.172.in-addr.arpa. (45)
+04:40:08.322323 lo    In  IP 10.255.255.254.domain > 10.255.255.254.55123: 22617 NXDomain 0/1/0 (122)
+04:40:11.312266 eth0  Out IP 172.29.126.4.49942 > alphyn.canonical.com.ntp: NTPv4, Client, length 48
+04:40:11.348882 eth0  In  IP alphyn.canonical.com.ntp > 172.29.126.4.49942: NTPv4, Server, length 48
+04:40:13.561144 lo    In  IP 10.255.255.254.58844 > 10.255.255.254.domain: 30917+ PTR? 157.91.189.91.in-addr.arpa. (44)
+04:40:13.597059 lo    In  IP 10.255.255.254.domain > 10.255.255.254.58844: 30917 1/0/0 PTR alphyn.canonical.com. (78)
+04:40:13.597192 lo    In  IP 10.255.255.254.48592 > 10.255.255.254.domain: 12479+ PTR? 4.126.29.172.in-addr.arpa. (43)
+04:40:13.626528 lo    In  IP 10.255.255.254.domain > 10.255.255.254.48592: 12479 NXDomain 0/1/0 (120)
+04:40:18.410906 eth0  In  ARP, Request who-has 172.29.126.4 (00:15:5d:92:d3:80 (oui Unknown)) tell Krish.mshome.net, length 28
