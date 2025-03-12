@@ -1,0 +1,5 @@
+Uncaught SyntaxError: Unexpected token '<'
+<script> alert('hello')</script>;
+VM1332:1 Uncaught SyntaxError: Unexpected token '<'
+<script> alert('hello')</script>
+VM1338:1 Uncaught SyntaxError: Unexpected token '<'

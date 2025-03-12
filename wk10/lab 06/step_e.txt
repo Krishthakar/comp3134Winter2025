@@ -1,0 +1,13 @@
+1. http://{Your-Server-IP}/directory_traversal_part2.php?q=.
+
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => directory_traversal_part1.php
+    [3] => directory_traversal_part2.php
+    [4] => index.html
+)
+
+2. http://165.227.34.74/directory_traversal_part2.php?q=%2e%2e%2f
+Access Denied!
